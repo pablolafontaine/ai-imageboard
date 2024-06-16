@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "mongo.collection.images",
+    "type": "java.lang.String",
+    "description": "A description for 'mongo.collection.images'"
+  },
+  {
+    "name": "cdn.access.key",
+    "type": "java.lang.String",
+    "description": "A description for 'cdn.access.key'"
+  },
+  {
+    "name": "cdn.url",
+    "type": "java.lang.String",
+    "description": "A description for 'cdn.url'"
+  },
+  {
+    "name": "bucket.name",
+    "type": "java.lang.String",
+    "description": "A description for 'bucket.name'"
+  },
+  {
+    "name": "bucket.access.key",
+    "type": "java.lang.String",
+    "description": "A description for 'bucket.access.key'"
+  },
+  {
+    "name": "bucket.region",
+    "type": "java.lang.String",
+    "description": "A description for 'bucket.region'"
+  },
+  {
+    "name": "bucket.secret.access.key",
+    "type": "java.lang.String",
+    "description": "A description for 'bucket.secret.access.key'"
+  },
+  {
+    "name": "ui.port",
+    "type": "java.lang.String",
+    "description": "A description for 'ui.port'"
+  },
+  {
+    "name": "ui.host",
+    "type": "java.lang.String",
+    "description": "A description for 'ui.host'"
+  }
+]}
